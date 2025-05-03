@@ -8,7 +8,6 @@ A simple full-stack task management application that allows users to register/lo
 - User Registration and Login (basic UI ready)
 - Task creation and listing
 - Backend API using Express.js (`/api/tasks`)
-- Connected to MongoDB (or file-based/mock for now)
 - Frontend in React, running at `localhost:3000`
 - Backend running at `localhost:5000`
 
