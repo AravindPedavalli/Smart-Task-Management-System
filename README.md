@@ -24,5 +24,5 @@ A simple full-stack task management application that allows users to register/lo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-task-management.git
+git clone https://github.com/your-username/smart-task-management.git](https://github.com/AravindPedavalli/Smart-Task-Management-System)
 cd smart-task-management
